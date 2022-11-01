@@ -1,9 +1,7 @@
 function [R_train,R_test,model,aux,aux_p]=polyfit(Xtrain,Ytrain,D,Xtest,Ytest)
 
 % -------------------------------------------
-% ECE 6143 Machine Learning - Parisima Abdali
-% -------------------------------------------
-% N16057177 - pa2297@nyu.edu
+% Parisima Abdali
 % -------------------------------------------
 % Xtrain = X Train Dataset
 % Ytrain = Y Train Dataset
