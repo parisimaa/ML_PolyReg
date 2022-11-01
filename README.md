@@ -7,4 +7,6 @@ Use Problem1.mat file as the dataset which consists of input variable X and outp
 Split the dataset randomly into training and test sets (you need to adjust some parameters for other datasets).
 Cross-validation has been used for finding the optimum order of the polynomial function. <br>
 Result: <br>
-<img width="618" alt="Screen Shot 2022-11-01 at 3 58 25 PM" src="https://user-images.githubusercontent.com/54392924/199327008-75d1199b-d232-42dc-a938-7987dd70a062.png">
+<img width="618" alt="Screen Shot 2022-11-01 at 3 58 25 PM" src="https://user-images.githubusercontent.com/54392924/199327008-75d1199b-d232-42dc-a938-7987dd70a062.png"><br>
+By increasing the order of polynomial function training loss will decrease significantly and our model will adjust to training set almost perfect. However, as the orders increase our model performance on test set will not be stable and at some point, not only loss function will not improve but also will start increasing again. The point in which the minimum loss results for test set is the critical point between underfitting and overfitting of the system. In this case, the order of D = 9 is our critical point. ![image](https://user-images.githubusercontent.com/54392924/199327873-df7575e9-cf29-4a88-a7c8-2d074e54d7f2.png)
+
