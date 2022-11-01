@@ -1,8 +1,3 @@
-% -------------------------------------------
-% ECE 6143 Machine Learning - Parisima Abdali
-% -------------------------------------------
-% N16057177 - pa2297@nyu.edu
-% -------------------------------------------
 
 clc
 clear
@@ -60,4 +55,3 @@ grid on
 [value,index]=min(r_test);
 result={' Minimum error for test: ',value;' Order: ', index; ' Error value for train in this order: ',r_train(index)};
 disp(result)
-
