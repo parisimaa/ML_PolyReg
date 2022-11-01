@@ -7,4 +7,4 @@ Use Problem1.mat file as the dataset which consists of input variable X and outp
 Split the dataset randomly into training and test sets (you need to adjust some parameters for other datasets).
 Cross-validation has been used for finding the optimum order of the polynomial function. <br>
 Result: <br>
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/54392924/199326638-687aa4f3-bf25-472f-93c3-3b26f9aef1e9.png">
+<img width="618" alt="Screen Shot 2022-11-01 at 3 58 25 PM" src="https://user-images.githubusercontent.com/54392924/199327008-75d1199b-d232-42dc-a938-7987dd70a062.png">
