@@ -16,7 +16,7 @@ By increasing the order of polynomial function training loss will decrease signi
 ## Order d=5:
 <img width="216" alt="image" src="https://user-images.githubusercontent.com/54392924/199330689-2b7a72d5-44ac-416e-b61b-222b82709d07.png"> <br>
 ## Order d=9:
-<img width="216" alt="image" src="https://user-images.githubusercontent.com/54392924/199330857-e1618135-84ab-4f60-8332-d34e1dfaf1e3.png"> <br>
+![image](https://user-images.githubusercontent.com/54392924/199331122-ebcd2183-e74a-45e3-8ffc-6ab07881929c.png)
 
 
 
